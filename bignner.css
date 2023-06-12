@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap');
+.mainheading{
+    color: red;
+    font-size: 48px;
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 10px 5px 5px black;
+}
+
+
